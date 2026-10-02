@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Enterprise Operations Portal",
+  "description": "Integrated corporate management platform combining payroll processing, project tracking, and performance talent analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
